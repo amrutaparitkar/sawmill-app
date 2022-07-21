@@ -3,6 +3,6 @@ public class Customer {
     String name;
     String email;
     String address;
-    int ph_no;
+    int phoneNo;
 
 }
